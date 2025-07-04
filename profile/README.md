@@ -1,4 +1,4 @@
-## Hi there 👋
+## YAL 
 
 Your Apps Ltd provides unrivalled customised applications, integration, and add-ons for KRA-approved eTIMS and TIMS-compliant fiscal devices. 
 These solutions are designed to work seamlessly with platforms like QuickBooks, Tally, SAP, 
